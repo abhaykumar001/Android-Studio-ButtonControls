@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkBoxOption" type="id" />
+    <item name="checkBoxOption2" type="id" />
+    <item name="checkBoxOption3" type="id" />
+    <item name="checkBoxOption4" type="id" />
+</resources>
